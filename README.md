@@ -1,1 +1,1 @@
-# zabbixfiles
+# These are zabbix files
